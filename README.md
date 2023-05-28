@@ -1,18 +1,8 @@
 <h1> Create Your own webpage in docker </h1>
 <h2>For IT Students at upper secondary school: tutorial github/docker project</h2>
-<h2><center> Test Website for Thomas </center></h2>
 
-This is just a test to see how my github project works with docker
 
-Testing auto update with watchtower.
-
-Testing database
-
-Testing html
-
-Testing perl
-
-<h2>make github respitory docker</h2>
+<h3>make github respitory docker</h3>
 
 1. make docker file: Dockerfile
 2. insert required data example:
@@ -91,3 +81,18 @@ jobs:
         labels: ${{ steps.docker_meta.outputs.labels }}
         cache-from: type=local,src=/tmp/.buildx-cache
         cache-to: type=local,dest=/tmp/.buildx-cache
+
+
+
+
+<h2><center>My notes for Website</center></h2>
+
+This is just a test to see how my github project works with docker
+
+Testing auto update with watchtower.
+
+Testing database
+
+Testing html
+
+Testing perl
