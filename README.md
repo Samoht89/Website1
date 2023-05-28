@@ -1,5 +1,5 @@
 <h1> Create Your own webpage in docker </h1>
-<h2>For IT Students at upper secondary school: tutorial github/docker project</h2>
+<center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
 
 <h3>make github respitory docker</h3>
