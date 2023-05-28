@@ -26,7 +26,7 @@
 
  jobs:
 
-  build:
+   build:
 
     runs-on: ubuntu-latest
 
