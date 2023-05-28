@@ -14,17 +14,17 @@
 
 4. Copy and paste this in the file:
 
-name: Manual Docker Image CI
+ name: Manual Docker Image CI
 
-permissions:
-  contents: read
-  packages: write
-  id-token: write
+ permissions:
+   contents: read
+   packages: write
+   id-token: write
 
-on:
-  workflow_dispatch:
+ on:
+   workflow_dispatch:
 
-jobs:
+ jobs:
 
   build:
 
