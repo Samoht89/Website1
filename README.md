@@ -83,7 +83,12 @@
         cache-to: type=local,dest=/tmp/.buildx-cache
 
 
-
+<h3>software to use </h3>
+Github Application to sync the respitory from desktop to gihub and the other way
+<br>
+VisualStudio to edit the files
+<br>
+both software is compatible with mac, windows and linux
 
 <h2><center>My notes for Website</center></h2>
 
