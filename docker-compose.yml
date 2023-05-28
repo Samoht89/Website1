@@ -1,0 +1,9 @@
+version: '1.0'
+
+services:
+    Website1:
+        image: ghcr.io/samoht89/website1:latest
+        container_name: website1
+        restart: always
+        ports:
+            - "1180:80"
