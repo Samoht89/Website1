@@ -6,14 +6,16 @@
 
 1. make docker file: Dockerfile
 2. insert required data example:
+```
    FROM php:apache 
    COPY . /var/www/html/
+```
 
 3. go to your github image select action --> create new workflow
 (make your own workflow non template)
 
 4. Copy and paste this in the file:
-
+```
  name: Manual Docker Image CI
 
  permissions:
@@ -82,6 +84,7 @@
         cache-from: type=local,src=/tmp/.buildx-cache
         cache-to: type=local,dest=/tmp/.buildx-cache
 
+```
 
 <h3>software to use </h3>
 Github Application to sync the respitory from desktop to gihub and the other way
