@@ -6,4 +6,4 @@ services:
         container_name: website1
         restart: always
         ports:
-            - "1180:80"
+            - "80:80"
