@@ -118,7 +118,7 @@ services:
 
 <h2>Send your github username/web package</h2>
 <br>
-Send github username/web package to the responsible admin. 
+Send github docker-compose.yml file to your Teacher. 
 <br><br>
 <h2><center>My notes for Website</center></h2>
 
