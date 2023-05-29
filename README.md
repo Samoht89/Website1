@@ -9,25 +9,6 @@
 <br><br>
 both software is compatible with mac, windows and linux
 
-<h3>Make docker-compose.yml file</h3>
-<br>
-<br>
-```
-version: '2.0'
-
-services:
-    Website1:
-        image: ghcr.io/samoht89/website1:latest #change samoht89 to your username and website1 to your respitory name
-        deploy:
-            Labels:
-                com.centurylinklabs.watchtower.enable: "true"
-        container_name: website1 #Your firstname-"usernameAtSchool"
-        restart: always
-        ports:
-            - "80:80" #Change first port if using nginx
-```
-<br>
-
 
 <br>
 <center><h3>Make github respitory docker</h3></center>
@@ -112,6 +93,24 @@ services:
         cache-from: type=local,src=/tmp/.buildx-cache
         cache-to: type=local,dest=/tmp/.buildx-cache
 
+```
+
+<h3>Make docker-compose.yml file</h3>
+<br>
+<br>
+```
+version: '2.0'
+
+services:
+    Website1:
+        image: ghcr.io/samoht89/website1:latest #change samoht89 to your username and website1 to your respitory name
+        deploy:
+            Labels:
+                com.centurylinklabs.watchtower.enable: "true"
+        container_name: website1 #Your firstname-"usernameAtSchool"
+        restart: always
+        ports:
+            - "80:80" #Change first port if using nginx
 ```
 
 
