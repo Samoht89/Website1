@@ -11,7 +11,7 @@ both software is compatible with mac, windows and linux
 
 <h3>Make docker-compose.yml file</h3>
 <br>
-```
+<br>
 
 version: '2.0'
 
@@ -28,7 +28,6 @@ services:
 
 <br>
 
-```
 
 <br>
 <center><h3>Make github respitory docker</h3></center>
