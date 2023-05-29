@@ -2,7 +2,7 @@
 <center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
 
-<h3>make github respitory docker</h3>
+<h3>Make github respitory docker</h3>
 
 1. make docker file: Dockerfile
 2. insert required data example:
