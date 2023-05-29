@@ -2,6 +2,15 @@
 <center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
 
+<center><h3>Software to use</h3></center>
+<b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
+<br><br>
+<b>VisualStudio</b> to edit the files: https://code.visualstudio.com/Download
+<br><br>
+both software is compatible with mac, windows and linux
+
+
+
 <center><h3>Make github respitory docker</h3></center>
 
 1. make docker file: Dockerfile
@@ -85,13 +94,6 @@
         cache-to: type=local,dest=/tmp/.buildx-cache
 
 ```
-
-<center><h3>Software to use</h3></center>
-<b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
-<br><br>
-<b>VisualStudio</b> to edit the files: https://code.visualstudio.com/Download
-<br><br>
-both software is compatible with mac, windows and linux
 
 
 <h2>Send your github username/web package</h2>
