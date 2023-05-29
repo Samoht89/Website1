@@ -94,11 +94,7 @@
 both software is compatible with mac, windows and linux
 
 
-
-<br><br>
-
 <h2>Send your github username/web package</h2>
-<br>
 <br>
 Send github username/web package to the responsible admin. 
 <br><br>
