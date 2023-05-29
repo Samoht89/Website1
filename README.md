@@ -98,10 +98,6 @@ both software is compatible with mac, windows and linux
 <h3>Make docker-compose.yml file</h3>
 <br>
 <br>
-
-<h3>Make docker-compose.yml file</h3>
-<br>
-<br>
 ´´´
 version: '2.0'
 
