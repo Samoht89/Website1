@@ -133,3 +133,5 @@ Testing html
 
 
 Testing perl
+
+setup mysql and phpmyadmin 
