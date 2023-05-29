@@ -99,10 +99,8 @@ both software is compatible with mac, windows and linux
 <br>
 <br>
 
-<h3>Make docker-compose.yml file</h3>
-<br>
-<br>
-´´´
+```docker-compose.yml
+
 version: '2.0'
 
 services:
@@ -115,12 +113,12 @@ services:
         restart: always
         ports:
             - "80:80" #Change first port if using nginx
-´´´
+```
 
 
 <h2>Send your github username/web package</h2>
 <br>
-Send github username/web package to the responsible admin. 
+Send github docker-compose.yml file to your Teacher. 
 <br><br>
 <h2><center>My notes for Website</center></h2>
 
@@ -133,5 +131,9 @@ Testing auto update with watchtower.
 Testing database
 
 Testing html
+<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
+
 
 Testing perl
+
+setup mysql and phpmyadmin 
