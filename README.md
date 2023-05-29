@@ -98,7 +98,24 @@ both software is compatible with mac, windows and linux
 <h3>Make docker-compose.yml file</h3>
 <br>
 <br>
+
+<h3>Make docker-compose.yml file</h3>
+<br>
+<br>
 ```
+version: '2.0'
+
+services:
+    Website1:
+        image: ghcr.io/samoht89/website1:latest #change samoht89 to your username and website1 to your respitory name
+        deploy:
+            Labels:
+                com.centurylinklabs.watchtower.enable: "true"
+        container_name: website1 #Your firstname-"usernameAtSchool"
+        restart: always
+        ports:
+            - "80:80" #Change first port if using nginx
+
 version: '2.0'
 
 services:
