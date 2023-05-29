@@ -2,7 +2,7 @@
 <center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
 
-<h3>Make github respitory docker</h3>
+<center><h3>Make github respitory docker</h3></center>
 
 1. make docker file: Dockerfile
 2. insert required data example:
@@ -86,7 +86,7 @@
 
 ```
 
-<h3>Software to use </h3>
+<center><h3>Software to use </h3></center>
 Github Application to sync the respitory from desktop to gihub and the other way
 <br>
 VisualStudio to edit the files
