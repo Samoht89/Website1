@@ -86,7 +86,7 @@
 
 ```
 
-<center><h3>Software to use </h3></center>
+<center><h3>Software to use</h3></center>
 Github Application to sync the respitory from desktop to gihub and the other way
 <br>
 VisualStudio to edit the files
