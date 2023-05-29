@@ -98,7 +98,7 @@ both software is compatible with mac, windows and linux
 <h3>Make docker-compose.yml file</h3>
 <br>
 <br>
-´´´
+```
 version: '2.0'
 
 services:
@@ -111,7 +111,7 @@ services:
         restart: always
         ports:
             - "80:80" #Change first port if using nginx
-´´´
+```
 
 
 <h2>Send your github username/web package</h2>
