@@ -93,6 +93,15 @@
 <br><br>
 both software is compatible with mac, windows and linux
 
+
+
+<br><br>
+
+<h2>Send your github username/web package</h2>
+<br>
+<br>
+Send github username/web package to the responsible admin. 
+<br><br>
 <h2><center>My notes for Website</center></h2>
 
 This is just a test to see how my github project works with docker
