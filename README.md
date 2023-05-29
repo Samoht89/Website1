@@ -24,7 +24,7 @@ services:
         ports:
             - "80:80" #Change first port if using nginx
 ```
-
+<br>
 <center><h3>Make github respitory docker</h3></center>
 
 1. make docker file: Dockerfile
