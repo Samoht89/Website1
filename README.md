@@ -87,10 +87,10 @@
 ```
 
 <center><h3>Software to use</h3></center>
-Github Application to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
-<br>
-VisualStudio to edit the files: https://code.visualstudio.com/Download
-<br>
+<b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
+<br><br>
+<b>VisualStudio</b> to edit the files: https://code.visualstudio.com/Download
+<br><br>
 both software is compatible with mac, windows and linux
 
 <h2><center>My notes for Website</center></h2>
