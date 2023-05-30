@@ -136,4 +136,4 @@ Testing html
 
 Testing perl
 
-setup mysql and phpmyadmin 
+setup mariadb and phpmyadmin 
