@@ -2,6 +2,15 @@
 <center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
 
+<center><h3>Software to use</h3></center>
+<b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
+<br><br>
+<b>VisualStudio</b> to edit the files: https://code.visualstudio.com/Download
+<br><br>
+both software is compatible with mac, windows and linux
+
+
+<br>
 <center><h3>Make github respitory docker</h3></center>
 
 1. make docker file: Dockerfile
@@ -86,30 +95,45 @@
 
 ```
 
-<center><h3>Software to use</h3></center>
-<b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
-<br><br>
-<b>VisualStudio</b> to edit the files: https://code.visualstudio.com/Download
-<br><br>
-both software is compatible with mac, windows and linux
+<h3>Make docker-compose.yml file</h3>
+<br>
+<br>
 
+```docker-compose.yml
 
+version: '2.0'
 
-<br><br>
+services:
+    Website1:
+        image: ghcr.io/samoht89/website1:latest #change samoht89 to your username and website1 to your respitory name
+        deploy:
+            Labels:
+                com.centurylinklabs.watchtower.enable: "true"
+        container_name: website1 #Your firstname-"usernameAtSchool"
+        restart: always
+        ports:
+            - "80:80" #Change first port if using nginx
+```
+
 
 <h2>Send your github username/web package</h2>
 <br>
-<br>
-Send github username/web package to the responsible admin. 
+Send github docker-compose.yml file to your Teacher. 
 <br><br>
 <h2><center>My notes for Website</center></h2>
 
 This is just a test to see how my github project works with docker
 
-Testing auto update with watchtower.
+Testing auto update with watchtower. 
+<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
+
 
 Testing database
 
 Testing html
+<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
+
 
 Testing perl
+
+setup mysql and phpmyadmin 
