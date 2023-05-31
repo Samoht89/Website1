@@ -8,17 +8,6 @@
 
 #binmode(OUT, ":utf8");
 
-#prnhead();
-if (param('edit')) {print"testttt!";}
-if (param('test')) {print"testttt!";}
-if (param('test')) {print"testttt!";}
-if (param('test')) {print"testttt!";}
-if (param('test')) {print"testttt!";}
-if (param('resultatTempServerrom')) {$resultatTempServerrom=param('resultatTempServerrom');}
-
-if (param('id')) {$id=param('id');}
-
-
 print header;
 
 print <<HTML;
