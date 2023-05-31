@@ -4,13 +4,7 @@
 #--------------------------------------------------------------------------
 # DBI er standard database interface for Perl
 # DBD er Perl modulen for å koble til MySQL
-use CGI::Fast;
-use DBI;
-use DBD::mysql;
-use CGI qw(:standard);
-use CGI::Carp qw(warningsToBrowser fatalsToBrowser);
-use utf8;
-use Net::SNMP;
+
 
 #binmode(OUT, ":utf8");
 
