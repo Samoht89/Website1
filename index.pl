@@ -8,8 +8,6 @@
 
 #binmode(OUT, ":utf8");
 
-print header;
-
 print <<HTML;
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
