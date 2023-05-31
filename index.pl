@@ -1,10 +1,9 @@
 #!/usr/bin/perl -w
 #--------------------------------------------------------------------------
-# forside.pl
+# index.pl
 #--------------------------------------------------------------------------
-# DBI er standard database interface for Perl
-# DBD er Perl modulen for å koble til MySQL
-
+use CGI;
+print CGI::header();
 
 #binmode(OUT, ":utf8");
 
