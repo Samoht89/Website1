@@ -1,4 +1,3 @@
-FROM php:apache
 FROM perl:5.34
 COPY . /var/www/html/
 
