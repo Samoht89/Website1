@@ -1,6 +1,11 @@
 <h1> Create Your own webpage in docker </h1>
 <center><h2>For IT Students at upper secondary school: tutorial github/docker project</h2></center>
 
+<h2> How to get started </h3>
+1. Make an Github Account
+2. Download Software <a id="Software to use">
+3. Make an respitory
+4. 
 
 <center><h3>Software to use</h3></center>
 <b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
