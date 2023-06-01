@@ -30,8 +30,11 @@ both software is compatible with mac, windows and linux
 <br>
 <center><h3>Make github respitory and make your first page</h3></center>
 
-1. make docker file: Dockerfile
-2. insert required data example:
+1. when creating respitory give it a name and add readme
+2. create respitory
+3. add file
+4. give the file you created this name: Dockerfile
+5. insert required data example:
 ```
    FROM php:apache 
    COPY . /var/www/html/
