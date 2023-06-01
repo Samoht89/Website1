@@ -3,8 +3,8 @@
 
 <h2> How to get started </h3><br>
 1. Make an Github Account<br>
-2. <a href="https://github.com/Samoht89/Website1#software-to-use">Download Software</a>
-3. Make an respitory<br>
+2. <a href="https://github.com/Samoht89/Website1#software-to-use">Download Software</a><br>
+3. <a href="https://github.com/Samoht89/Website1#make-github-respitory-docker">Make an respitory</a><br>
 4. 
 
 <center><h3>Software to use</h3></center>
