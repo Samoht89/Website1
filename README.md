@@ -139,11 +139,21 @@ index.html standard start is:
 <html>
    <title>Your Title</title>
       <body>
+      This is my website
       </body>
 </html>
 ```
 <br>
 Remember to save the file <br>
+<br>
+
+<h3>Run the Workflow</h3>
+1. Go to Action tab in github
+2. select Manual Docker Image CI
+3. select run workflow (dropdown menu)
+4. select run workflow
+
+<br>
 
 <h3>Send your github username/web package</h3>
 <br>
