@@ -8,7 +8,7 @@
 4. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#create-a-workflow-to-generate-respitory-to-docker">Create a Workflow</a><br>
 5. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#make-docker-composeyml-file">Make docker-compose.yml file</a><br>
 6. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#-make-an-indexhtml-">Make index.html file</a><br>
-7. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#run-the-workflow-">Run the workflow</a><br>
+7. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#run-the-workflow">Run the workflow</a><br>
 
 
 
