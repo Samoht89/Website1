@@ -5,7 +5,7 @@
 1. Make an Github Account<br>
 2. <a href="https://github.com/Samoht89/Website1#software-to-use">Download Software</a><br>
 3. <a href="https://github.com/Samoht89/Website1#make-github-respitory-docker">Make an respitory</a><br>
-4. 
+4. <a href="https://github.com/Samoht89/Website1#make-github-respitory-docker">Create a Workflow</a><br>
 
 <center><h3>Software to use</h3></center>
 <b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
@@ -16,7 +16,7 @@ both software is compatible with mac, windows and linux
 
 
 <br>
-<center><h3>Make github respitory docker</h3></center>
+<center><h3>Make github respitory and make your first page</h3></center>
 
 1. make docker file: Dockerfile
 2. insert required data example:
@@ -24,11 +24,11 @@ both software is compatible with mac, windows and linux
    FROM php:apache 
    COPY . /var/www/html/
 ```
-
-3. go to your github image select action --> create new workflow
+<h3>Create a workflow to generate respitory to docker</h3>
+1. go to your github image select action --> create new workflow
 (make your own workflow non template)
 
-4. Copy and paste this in the file:
+2. Copy and paste this in the file:
 ```
  name: Manual Docker Image CI
 
@@ -99,7 +99,9 @@ both software is compatible with mac, windows and linux
         cache-to: type=local,dest=/tmp/.buildx-cache
 
 ```
-
+<br>
+3. Save File
+<br>
 <h3>Make docker-compose.yml file</h3>
 <br>
 <br>
