@@ -154,10 +154,11 @@ Remember to save the file <br>
 <br>
 
 <h3>Run the Workflow</h3>
-1. Go to Action tab in github
-2. select Manual Docker Image CI
-3. select run workflow (dropdown menu)
-4. select run workflow
+<br>
+1. Go to Action tab in github <br>
+2. select Manual Docker Image CI <br>
+3. select run workflow (dropdown menu)<br>
+4. select run workflow<br>
 
 <br>
 
