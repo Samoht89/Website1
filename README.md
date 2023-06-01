@@ -30,7 +30,7 @@ both software is compatible with mac, windows and linux
 <br>
 <center><h3>Make github respitory and make your first page</h3></center>
 
-1. when creating respitory give it a name and add readme
+1. when creating respitory give it a name and add readme. Remember it has to be a public respitory
 2. create respitory
 3. add file
 4. give the file you created this name: Dockerfile
