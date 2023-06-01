@@ -162,11 +162,6 @@ Remember to save the file <br>
 
 <br>
 
-<h3>Send your github username/web package</h3>
-<br>
-Send github docker-compose.yml file to your Teacher. 
-<br>
-
 <h3> Update your page </h3>
 Each time you edit your site and you want to publish it to your page, run the workflow you created in step 4. this will pack the github project to an docker and the server will see its been updatet and update the docker file on the server. Updates every 2 minutes.
 <br><br>
