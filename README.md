@@ -172,7 +172,7 @@ Each time you edit your site and you want to publish it to your page, run the wo
 <h2> Other languages than html </2>
 <h3> Perl </h3>
 <br>
-'''
+```
 FROM php:apache 
 COPY . /var/www/html/
 
@@ -189,7 +189,7 @@ RUN echo "</Directory>" >> /etc/apache2/apache2.conf
 
 #sets the execute permission
 RUN chmod +x /var/www/html/index.pl
-'''
+```
 
 
 <h2><center>My notes for Website</center></h2>
