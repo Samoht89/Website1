@@ -9,8 +9,8 @@
 5. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#make-docker-composeyml-file">Make docker-compose.yml file</a><br>
 6. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#-make-an-indexhtml-">Make index.html file</a><br>
 7. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#run-the-workflow">Run the workflow</a><br>
-8. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#run-the-workflow">Send respitory link to your teatcher</a><br>
-9. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#run-the-workflow">Update Image after editing</a><br>
+8. Send respitory link to your teatcher<br>
+9. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#-update-your-page-">Update Image after editing</a><br>
 
 
 
