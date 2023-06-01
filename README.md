@@ -119,6 +119,7 @@ both software is compatible with mac, windows and linux
 <br>
 <h3>Make docker-compose.yml file</h3>
 <br>
+remember to change whats neccecary in the file on the image and container_name fields
 <br>
 
 ```docker-compose.yml
