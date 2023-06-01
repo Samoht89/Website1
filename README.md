@@ -168,6 +168,13 @@ Remember to save the file <br>
 <h3> Update your page </h3>
 Each time you edit your site and you want to publish it to your page, run the workflow you created in step 4. this will pack the github project to an docker and the server will see its been updatet and update the docker file on the server. Updates every 2 minutes.
 <br><br>
+
+<h2> Other languages than html </2>
+<h3> Perl </h3>
+<br>
+
+
+
 <h2><center>My notes for Website</center></h2>
 
 This is just a test to see how my github project works with docker
