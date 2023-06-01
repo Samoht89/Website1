@@ -127,9 +127,14 @@ services:
 <br>
 Remember to save the file!
 
-<h2>Send your github username/web package</h2>
+<h3>Send your github username/web package</h3>
 <br>
 Send github docker-compose.yml file to your Teacher. 
+<br>
+
+<h3> Update your page </h3>
+Each time you edit your site and you want to publish it to your page, run the workflow you created in step 4. this will pack the github project to an docker and the server will see its been updatet and update the docker file on the server.<br>
+updates every 2 minutes.
 <br><br>
 <h2><center>My notes for Website</center></h2>
 
@@ -146,6 +151,7 @@ Testing html
 
 
 Testing perl
+<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
 
 setup mariadb and phpmyadmin 
 <img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
