@@ -5,7 +5,7 @@
 1. Make an Github Account<br>
 2. <a href="https://github.com/Samoht89/Website1#software-to-use">Download Software</a><br>
 3. <a href="https://github.com/Samoht89/Website1#make-github-respitory-docker">Make an respitory</a><br>
-4. <a href="https://github.com/Samoht89/Website1#make-github-respitory-docker">Create a Workflow</a><br>
+4. <a href="https://github.com/Samoht89/Website1/blob/main/README.md#create-a-workflow-to-generate-respitory-to-docker">Create a Workflow</a><br>
 
 <center><h3>Software to use</h3></center>
 <b>Github Desktop Application</b> to sync the respitory from desktop to gihub and the other way: https://desktop.github.com/
