@@ -126,6 +126,21 @@ services:
 ```
 <br>
 Remember to save the file!
+<br>
+
+<h3> Make an index.html </h3>
+Make your index.html file in the root of your respitory. <br>
+index.html standard start is:
+
+```
+<html>
+   <title>Your Title</title>
+      <body>
+      </body>
+</html>
+```
+<br>
+Remember to save the file <br>
 
 <h3>Send your github username/web package</h3>
 <br>
