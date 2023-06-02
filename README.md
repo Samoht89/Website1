@@ -26,6 +26,8 @@
 <br><br>
 both software is compatible with mac, windows and linux
 
+<h3> Use this respitory as template </h3>
+You can also use this respitory as template, but remember to edit docker-compose.yml file in step 5. 
 
 <br>
 <center><h3>Make github respitory and make your first page</h3></center>
