@@ -205,6 +205,7 @@ Testing auto update with watchtower.
 
 
 Testing database
+<img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
 
 Testing html
 <img src="https://static.vecteezy.com/system/resources/previews/009/362/738/non_2x/tick-icon-accept-approve-sign-design-free-png.png" alt="done" width="20" height="20">
