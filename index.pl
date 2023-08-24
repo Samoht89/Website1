@@ -65,6 +65,7 @@ li a:hover:not(.active) {
   <li><a href="/test1/index.pl">Test1</a></li>
   <li><a href="/test2/index.pl">Test2</a></li>
   <li><a href="snake.html">Snake</a></li>
+  <li><a href="snake.html">Snake2</a></li>
 
 </ul>
 
